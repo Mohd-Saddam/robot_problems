@@ -9,6 +9,10 @@ This program simulates a robot's navigation on a 2D grid based on provided instr
 ## Usage
 
 1. Clone or download this repository to your local machine.
+    
+    command here using terminal: 
+
+        clone git https://github.com/Mohd-Saddam/robot_problems.git
 
 2. Open a terminal/command prompt.
 
